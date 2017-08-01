@@ -55,6 +55,7 @@ git commit -m "Текст коммита"
 ```
 
 ![Alt text](https://monosnap.com/file/82wNEn02c6jnq5EWPXBIY7kex4AOKi.png)
+
 Коммит создан
 
 Делаем push изменений в удаленный репозиторий 
