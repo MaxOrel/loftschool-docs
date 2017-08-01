@@ -21,6 +21,7 @@
 * Название курса
 
 ![Alt text](https://monosnap.com/file/SIIyCxOH6eEx2sYDmZXSa63Rb83jEP.png)
+![Alt text](https://monosnap.com/file/tzsWdCI1ngyy5bhbXjkCgFuk5bmwnn.png)
 ![Alt text](https://monosnap.com/file/7I7LeBbaKJ2jT9C8rvjAaHXRgmXULb.png)
 
 ## 2. Работа с репозиторием на компьютере
