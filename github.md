@@ -86,6 +86,15 @@ git push --set-upstream origin week_1
 ![Alt text](https://monosnap.com/file/HBTgrI4SwCVgldc0jpnbz2uClzUNbR.png)
 ![Alt text](https://monosnap.com/file/Y9l9Bfg0vz2XbpeJ4FkWZtwt5xK6lG.png)
 
+**публикуем изменения на github pages**
+
+В консоли пишем 
+
+```{r, engine='bash', count_lines}
+git push origin week_3:gh-pages
+```
+*week_3 заменяем на текущую недельную ветку*
+
 **Добавляем настаника в collaborators**
 1. Открываем вкладку Settings
 2. Переходим в раздел collaborators
@@ -104,7 +113,8 @@ git push --set-upstream origin week_1
 git pull
 ```
 
-Далее делаем доработки, коммитим их и пушим.
+Далее делаем доработки, коммитим их и пушим.(не забываем сделать пуш в gh-pages ветку) 
+
 Новый pull request создавать не нужно, изменения подтянутся в прошлый. 
 
 **Пишем наставнику, что все поправили, ждем ответа.**
