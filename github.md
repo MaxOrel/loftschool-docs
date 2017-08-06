@@ -86,7 +86,7 @@ git push --set-upstream origin week_1
 ![Alt text](https://monosnap.com/file/HBTgrI4SwCVgldc0jpnbz2uClzUNbR.png)
 ![Alt text](https://monosnap.com/file/Y9l9Bfg0vz2XbpeJ4FkWZtwt5xK6lG.png)
 
-**публикуем изменения на github pages**
+**Публикуем изменения на github pages**
 
 В консоли пишем 
 
@@ -94,6 +94,12 @@ git push --set-upstream origin week_1
 git push origin week_3:gh-pages
 ```
 *week_3 заменяем на текущую недельную ветку*
+
+![Alt text](https://monosnap.com/file/I1TlQjAAhpSax2hVuuak0s8D6Rg79r.png)
+
+На гите появится вот такая запись 
+
+![Alt text](https://monosnap.com/file/d5AkrLfa6xJynyHUMc05kKJRiKaoXN.png)
 
 **Добавляем настаника в collaborators**
 1. Открываем вкладку Settings
