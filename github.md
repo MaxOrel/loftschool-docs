@@ -86,7 +86,7 @@ git push --set-upstream origin week_1
 ![Alt text](https://monosnap.com/file/HBTgrI4SwCVgldc0jpnbz2uClzUNbR.png)
 ![Alt text](https://monosnap.com/file/Y9l9Bfg0vz2XbpeJ4FkWZtwt5xK6lG.png)
 
-**Публикуем изменения на github pages**
+### Публикуем изменения на github pages ###
 
 В консоли пишем 
 
@@ -101,7 +101,7 @@ git push origin week_3:gh-pages
 
 ![Alt text](https://monosnap.com/file/d5AkrLfa6xJynyHUMc05kKJRiKaoXN.png)
 
-**Добавляем настаника в collaborators**
+### Добавляем настаника в collaborators ###
 1. Открываем вкладку Settings
 2. Переходим в раздел collaborators
 3. Пишем ник настаника 
@@ -109,7 +109,7 @@ git push origin week_3:gh-pages
 
 ![Alt text](https://monosnap.com/file/OWYFxcS64yWED1JecFXbtnkgoAFo2j.png)
 
-**Пишем наставнику, что все сделали, ждем ответа.**
+### Пишем наставнику, что все сделали, ждем ответа. ###
 
 ## 4. Доработка
 
