@@ -89,7 +89,7 @@ git push --set-upstream origin week_1
 Получаем ветку week_1 на свой локальный компьютер
 
 ```{r, engine='bash', count_lines}
-git push origin week_1
+git pull origin week_1
 ```
 
 ### Публикуем изменения на github pages ###
