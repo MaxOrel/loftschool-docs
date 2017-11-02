@@ -86,6 +86,12 @@ git push --set-upstream origin week_1
 ![Alt text](https://monosnap.com/file/HBTgrI4SwCVgldc0jpnbz2uClzUNbR.png)
 ![Alt text](https://monosnap.com/file/Y9l9Bfg0vz2XbpeJ4FkWZtwt5xK6lG.png)
 
+Получаем ветку week_1 на свой локальный компьютер
+
+```{r, engine='bash', count_lines}
+git push origin week_1
+```
+
 ### Публикуем изменения на github pages ###
 
 В консоли пишем 
